@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.js": "/react-eventHandling-v1/static/js/main.2d8434fc.chunk.js",
+    "main.js.map": "/react-eventHandling-v1/static/js/main.2d8434fc.chunk.js.map",
+    "runtime-main.js": "/react-eventHandling-v1/static/js/runtime-main.d2e5bf85.js",
+    "runtime-main.js.map": "/react-eventHandling-v1/static/js/runtime-main.d2e5bf85.js.map",
+    "static/js/2.5fbbfc9f.chunk.js": "/react-eventHandling-v1/static/js/2.5fbbfc9f.chunk.js",
+    "static/js/2.5fbbfc9f.chunk.js.map": "/react-eventHandling-v1/static/js/2.5fbbfc9f.chunk.js.map",
+    "index.html": "/react-eventHandling-v1/index.html",
+    "precache-manifest.11245e0fb9393caedbbdcfd8a285e315.js": "/react-eventHandling-v1/precache-manifest.11245e0fb9393caedbbdcfd8a285e315.js",
+    "service-worker.js": "/react-eventHandling-v1/service-worker.js"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d2e5bf85.js",
+    "static/js/2.5fbbfc9f.chunk.js",
+    "static/js/main.2d8434fc.chunk.js"
+  ]
+}
